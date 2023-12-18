@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "engine/engine_texture"
+	"$translucent" 1
+}
